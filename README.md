@@ -55,7 +55,32 @@ After you have introduced your project, it is a good idea to add a **Table of co
 - Varition of temperature over two years.
 
 **About the dataset**
+UCI Italien Air Quality dataset
+https://archive.ics.uci.edu/ml/datasets/air+quality
 The dataset contains 9358 instances of hourly averaged responses from an array of 5 metal oxide chemical sensors embedded in an Air Quality Chemical Multisensor Device. The device was located on the field in a significantly polluted area, at road level,within an Italian city. Data were recorded from March 2004 to February 2005 (one year)representing the longest freely available recordings of on field deployed air quality chemical sensor devices responses. Ground Truth hourly averaged concentrations for CO, Non Metanic Hydrocarbons,Benzene, Total Nitrogen Oxides (NOx) and Nitrogen Dioxide (NO2) and were provided by a co-located reference certified analyzer.
+
+UCI Beijing Data dataset
+https://archive.ics.uci.edu/ml/datasets/Beijing+Multi-Site+Air-Quality+Data
+Attribute Information:
+No: row number
+year: year of data in this row
+month: month of data in this row
+day: day of data in this row
+hour: hour of data in this row
+PM2.5: PM2.5 concentration (ug/m^3)
+PM10: PM10 concentration (ug/m^3)
+SO2: SO2 concentration (ug/m^3)
+NO2: NO2 concentration (ug/m^3)
+CO: CO concentration (ug/m^3)
+O3: O3 concentration (ug/m^3)
+TEMP: temperature (degree Celsius)
+PRES: pressure (hPa)
+DEWP: dew point temperature (degree Celsius)
+RAIN: precipitation (mm)
+wd: wind direction
+WSPM: wind speed (m/s)
+station: name of the air-quality monitoring site
+
 
 **Summary of the findings:**
 INSERT GOOGLE DRIVE LINK FOR DOCUMENTATION & SUMMARY REPORT
