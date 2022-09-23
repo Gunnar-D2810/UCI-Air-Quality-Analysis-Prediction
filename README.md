@@ -121,4 +121,4 @@ Leave a star in GitHub, give a clap in Medium and share this guide if you found 
 
 <!-- Add the footer here -->
 
-![Footer](https://github.com/navendu-pottekkat/awesome-readme/blob/master/fooooooter.png)
+![Footer](https://www.kwizda-agro.com/AGRO_MICRO/kwizda-agro.com/02_Main_Who_we_are/image-thumb__94475__agro_micro_content_image_background_large/footer_kwizda-nachhaltigkeit_neu_dark_1920x300.webp)
